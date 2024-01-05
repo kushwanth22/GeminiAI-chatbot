@@ -1,6 +1,6 @@
 ---
 title: GeminiAI Chatbot
-emoji: 📚
+emoji: 🤖
 colorFrom: red
 colorTo: pink
 sdk: streamlit
