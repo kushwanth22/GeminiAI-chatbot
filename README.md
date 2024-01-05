@@ -1,5 +1,3 @@
-# GeminiAI-chatbot
-Using Google Gemini Api create Chatbot Streamlit App
 ---
 title: GeminiAI Chatbot
 emoji: 📚
@@ -11,3 +9,5 @@ app_file: app.py
 pinned: false
 license: mit
 ---
+# GeminiAI-chatbot
+Using Google Gemini Api create Chatbot Streamlit App
